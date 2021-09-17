@@ -1,0 +1,16 @@
+.counter-wrapper {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+h2.counter {
+  margin: 0 24px;
+  align-self: flex-end;
+  font-size: 28px;
+}
+
+button {
+  cursor: pointer;
+}
